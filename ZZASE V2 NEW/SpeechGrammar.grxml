@@ -1,0 +1,66 @@
+<grammar version="1.0" xml:lang="en-US" root="rootRule" tag-format="semantics/1.0-literals" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="rootRule">
+    <one-of>
+      <item>
+        <tag>FORWARD</tag>
+        <one-of>
+          <item> forwards </item>
+          <item> forward </item>
+          <item> straight </item>
+          <item> go ahead </item>
+		  <item> front </item>
+		  <item> ahb </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>BACK</tag>
+        <one-of>
+          <item> backwards </item>
+          <item> backward </item>     
+          <item> back </item>
+		  <item> dwe </item>
+
+        </one-of>
+      </item>
+      <item>
+        <tag>LEFT</tag>
+        <one-of>
+          <item> turn left </item>
+          <item> go left </item>
+          <item> left </item>
+		  <item> when jjok </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>RIGHT</tag>
+        <one-of>
+          <item> turn right </item>
+          <item> go right </item>
+          <item> right </item>
+		  <item> oh roon jjok </item>
+        </one-of>
+      </item>
+      <item>
+        <tag>TOP</tag>
+        <one-of>
+          <item> top</item>
+		  <item> we</item>
+        </one-of>
+      </item>
+      <item>
+        <tag>STOP</tag>
+        <one-of>
+          <item> stop </item>
+          <item> halt </item>
+        </one-of>
+      </item>
+
+      <item>
+        <tag>MASTER</tag>
+        <one-of>
+          <item> master </item>
+        </one-of>
+      </item>
+    </one-of>
+  </rule>
+</grammar>
