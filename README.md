@@ -23,8 +23,7 @@
 * Unity Engine
 * Visual Studio for C#
 
-## ZZASE에 대해 더 많이 알고 싶다면? Wiki로 이동 👉 
-* [ZZASE WIKI](https://github.com/chany219/ZZASE/wiki) 
+## ZZASE에 대해 더 많이 알고 싶다면? Wiki로 이동 👉 [ZZASE WIKI](https://github.com/chany219/ZZASE/wiki) 
 
 
 ### v1.0
