@@ -22,6 +22,8 @@
 ## 사용 환경
 * Unity Engine
 * Visual Studio for C#
+* Kinect V2 (Not supported for Kinect V1)
+* Microsoft Windows (Not supported for macOS and Linux)
 
 ## ZZASE에 대해 더 많이 알고 싶다면? Wiki로 이동 👉 [ZZASE WIKI](https://github.com/chany219/ZZASE/wiki) 
 
